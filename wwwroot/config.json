@@ -37,16 +37,16 @@
 
     /*
         developerAttribution: {
-            text: "Your organisation",
-            link: "http://www.example.com"
+            text: "IHE Delft Institute for Water Education",
+            link: "http://www.un-ihe.org"
         },*/
     // This is used in various text messages. You should also set <title> in index.html
-    "appName": "Terria Map",
+    "appName": "SDG641: Agricultural Water Productivity",
 
     // See comments in lib/Views/global.scss for further information about customising colors, logos, fonts etc.
     "brandBarElements": [
       "",
-      "<a target=\"_blank\" href=\"https://terria.io\"><img src=\"images/terria_logo.png\" height=\"52\" title=\"Version: {{version}}\" /></a>",
+      "<a target=\"_blank\" href=\"https://terria.io\"><img src=\"images/IHEDelft.png\" height=\"52\" title=\"Version: {{version}}\" /></a>",
       ""
     ],
     // Shown when things go wrong.
@@ -275,8 +275,8 @@
     //               ]
     //           },
     //           {
-    //               "title": "View and compare different points in time",
-    //               "footnote": "Important: Any time series data can be compared using the Split Screen Mode, not just satellite imagery",
+    //"title": "View and compare different points in time",
+    //"footnote": "Important: Any time series data can be compared using the Split Screen Mode, not just satellite imagery",
     //               "steps": [
     //                   {
     //                       "title": "Add a time series dataset to the map",
